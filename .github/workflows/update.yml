@@ -1,0 +1,40 @@
+name: Update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-vpm-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Download vpm-repos-gen
+        run: |
+          TAG_NAME="$(curl https://api.github.com/repos/koyashiro/vpm-repos-gen/releases/latest | jq -r .tag_name)"
+          DIR="$(mktemp --tmpdir -d vpm-repos-gen.XXXXXXXXXXXXXXXX)"
+          curl -L "https://github.com/koyashiro/vpm-repos-gen/releases/download/${TAG_NAME}/vpm-repos-gen-${TAG_NAME:1}-x86_64-unknown-linux-gnu.tar.gz" | tar -xz -C "${DIR}"
+          echo "${DIR}" >> "${GITHUB_PATH}"
+      - name: Cache
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/vpm-repos-gen
+          key: ${{ runner.os }}-vpm-repos-gen
+      - name: Generate repos.json
+        run: |
+          vpm-repos-gen \
+            --name koyashiro \
+            --author koyashiro \
+            --url https://vpm.koyashiro.net/repos.json \
+            --repos koyashiro/udon-test \
+            --repos koyashiro/udon-exception \
+            --repos koyashiro/udon-list \
+            --repos koyashiro/udon-dictionary \
+            --repos koyashiro/udon-json \
+            --repos koyashiro/udon-encoding \
+            --repos koyashiro/udon-jwt \
+            | tee repos.json
+      - name: Commit & Push changes
+        uses: actions-js/push@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
