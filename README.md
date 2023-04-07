@@ -1,5 +1,7 @@
 # koyashiro's vpm repos
 
+<https://vpm.koyashiro.net/>
+
 ## Installation
 
 Install using [Creator Companion](https://vcc.docs.vrchat.com/) or [VPM CLI](https://vcc.docs.vrchat.com/vpm/cli/).
