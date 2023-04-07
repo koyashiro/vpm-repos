@@ -1,7 +1,21 @@
 # koyashiro's vpm repos
 
+## Installation
+
+Install using [Creator Companion](https://vcc.docs.vrchat.com/) or [VPM CLI](https://vcc.docs.vrchat.com/vpm/cli/).
+
+### Creator Companion
+
+Click the following link to install:
+
+<https://vpm.koyashiro.net/install>
+
+### VPM CLI
+
+Execute the following command in VPM CLI:
+
 ```sh
-vpm add repo https://vpm.koyashiro.net/repos.json
+vpm add repo https://vpm.koyashiro.net/
 ```
 
 ## Packages
