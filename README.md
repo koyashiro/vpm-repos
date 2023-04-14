@@ -28,4 +28,5 @@ vpm add repo https://vpm.koyashiro.net/
 - [UdonDictionary](https://github.com/koyashiro/udon-dictionary)
 - [UdonJson](https://github.com/koyashiro/udon-json)
 - [UdonEncoding](https://github.com/koyashiro/udon-encoding)
+- [UdonSHA2](https://github.com/koyashiro/udon-sha2)
 - [UdonJWT](https://github.com/koyashiro/udon-jwt)

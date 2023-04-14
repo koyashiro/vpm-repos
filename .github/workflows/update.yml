@@ -32,6 +32,7 @@ jobs:
             --repos koyashiro/udon-dictionary \
             --repos koyashiro/udon-json \
             --repos koyashiro/udon-encoding \
+            --repos koyashiro/udon-sha2 \
             --repos koyashiro/udon-jwt \
             | tee repos.json
       - name: Commit & Push changes
