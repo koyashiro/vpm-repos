@@ -14,13 +14,13 @@ jobs:
         with:
           path: ~/.cache/vpm-repos-gen
           key: ${{ runner.os }}-vpm-repos-gen
-      - name: Generate repos.json
+      - name: Generate index.json
         uses: koyashiro/vpm-repos-gen-action@v0.1.0
         with:
           name: koyashiro
           id: net.koyashiro.vpm
           author: koyashiro
-          url: https://vpm.koyashiro.net/repos.json
+          url: https://vpm.koyashiro.net/index.json
           repos: |
             koyashiro/udon-test
             koyashiro/udon-exception
@@ -30,7 +30,7 @@ jobs:
             koyashiro/udon-encoding
             koyashiro/udon-sha2
             koyashiro/udon-jwt
-          output: repos.json
+          output: index.json
       - name: Commit & Push changes
         uses: actions-js/push@v1.4
         with:
