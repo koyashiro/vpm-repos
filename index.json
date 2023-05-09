@@ -4,6 +4,37 @@
   "url": "https://vpm.koyashiro.net/index.json",
   "id": "net.koyashiro.vpm",
   "packages": {
+    "net.koyashiro.genericdatacontainer": {
+      "versions": {
+        "0.1.0": {
+          "version": "0.1.0",
+          "name": "net.koyashiro.genericdatacontainer",
+          "author": {
+            "email": "develop@koyashi.ro",
+            "name": "koyashiro",
+            "url": "https://github.com/koyashiro"
+          },
+          "bugs": {
+            "url": "https://github.com/koyashiro/generic-data-container/issues"
+          },
+          "description": "A generic and type-safe wrapper for DataContainer.",
+          "displayName": "GenericDataContainer",
+          "homepage": "https://github.com/koyashiro/generic-data-container",
+          "license": "MIT",
+          "repo": "https://vpm.koyashiro.net/index.json",
+          "repository": {
+            "type": "git",
+            "url": "https://github.com/koyashiro/generic-data-container"
+          },
+          "samples": [],
+          "url": "https://github.com/koyashiro/generic-data-container/releases/download/v0.1.0/net.koyashiro.genericdatacontainer-0.1.0.zip",
+          "vpmDependencies": {
+            "com.vrchat.base": "3.2.0",
+            "com.vrchat.udonsharp": "1.1.8"
+          }
+        }
+      }
+    },
     "net.koyashiro.udondictionary": {
       "versions": {
         "0.1.0": {
