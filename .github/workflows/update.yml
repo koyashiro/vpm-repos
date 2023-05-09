@@ -30,6 +30,7 @@ jobs:
             koyashiro/udon-encoding
             koyashiro/udon-sha2
             koyashiro/udon-jwt
+            koyashiro/generic-data-container
           output: index.json
       - name: Commit & Push changes
         uses: actions-js/push@v1.4

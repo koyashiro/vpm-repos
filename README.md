@@ -30,3 +30,4 @@ vpm add repo https://vpm.koyashiro.net/
 - [UdonEncoding](https://github.com/koyashiro/udon-encoding)
 - [UdonSHA2](https://github.com/koyashiro/udon-sha2)
 - [UdonJWT](https://github.com/koyashiro/udon-jwt)
+- [GenericDataContainer](https://github.com/koyashiro/generic-data-container)
