@@ -2528,6 +2528,38 @@
           "vpmDependencies": {
             "com.vrchat.udonsharp": "1.1.7"
           }
+        },
+        "0.1.1": {
+          "version": "0.1.1",
+          "name": "net.koyashiro.udonsha2",
+          "author": {
+            "email": "develop@koyashi.ro",
+            "name": "koyashiro",
+            "url": "https://github.com/koyashiro"
+          },
+          "bugs": {
+            "url": "https://github.com/koyashiro/udon-sha2/issues"
+          },
+          "description": "SHA2 implementation for UdonSharp.",
+          "displayName": "UdonSHA2",
+          "homepage": "https://github.com/koyashiro/udon-sha2",
+          "license": "MIT",
+          "repo": "https://vpm.koyashiro.net/index.json",
+          "repository": {
+            "type": "git",
+            "url": "https://github.com/koyashiro/udon-sha2"
+          },
+          "samples": [
+            {
+              "description": "Sample of UdonSHA256.",
+              "displayName": "UdonSHA256Sample",
+              "path": "Samples~/UdonSHA256Sample"
+            }
+          ],
+          "url": "https://github.com/koyashiro/udon-sha2/releases/download/v0.1.1/net.koyashiro.udonsha2-0.1.1.zip",
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "^1.1.8"
+          }
         }
       }
     },
