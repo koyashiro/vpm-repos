@@ -23,11 +23,14 @@ vpm add repo https://vpm.koyashiro.net/
 ## Packages
 
 - [UdonTest](https://github.com/koyashiro/udon-test)
-- [UdonException](https://github.com/koyashiro/udon-exception)
-- [UdonList](https://github.com/koyashiro/udon-list)
-- [UdonDictionary](https://github.com/koyashiro/udon-dictionary)
-- [UdonJson](https://github.com/koyashiro/udon-json)
 - [UdonEncoding](https://github.com/koyashiro/udon-encoding)
 - [UdonSHA2](https://github.com/koyashiro/udon-sha2)
 - [UdonJWT](https://github.com/koyashiro/udon-jwt)
 - [GenericDataContainer](https://github.com/koyashiro/generic-data-container)
+
+## Archived Packages
+
+- [UdonException](https://github.com/koyashiro/udon-exception)
+- [UdonList](https://github.com/koyashiro/udon-list)
+- [UdonDictionary](https://github.com/koyashiro/udon-dictionary)
+- [UdonJson](https://github.com/koyashiro/udon-json)
