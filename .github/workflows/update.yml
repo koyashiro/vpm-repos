@@ -17,21 +17,30 @@ jobs:
       - name: Generate index.json
         uses: koyashiro/vpm-repos-gen-action@v0.1.0
         with:
-          name: koyashiro
+          name: koyashiro's vpm repo
           id: net.koyashiro.vpm
           author: koyashiro
           url: https://vpm.koyashiro.net/index.json
           repos: |
             koyashiro/udon-test
-            koyashiro/udon-exception
-            koyashiro/udon-list
-            koyashiro/udon-dictionary
-            koyashiro/udon-json
             koyashiro/udon-encoding
             koyashiro/udon-sha2
             koyashiro/udon-jwt
             koyashiro/generic-data-container
           output: index.json
+      - name: Generate archive index.json
+        uses: koyashiro/vpm-repos-gen-action@v0.1.0
+        with:
+          name: koyashiro's archive vpm repo
+          id: net.koyashiro.vpm.archive
+          author: koyashiro
+          url: https://vpm.koyashiro.net/archive/index.json
+          repos: |
+            koyashiro/udon-exception
+            koyashiro/udon-list
+            koyashiro/udon-dictionary
+            koyashiro/udon-json
+          output: archive/index.json
       - name: Commit & Push changes
         uses: actions-js/push@v1.4
         with:
