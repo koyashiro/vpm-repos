@@ -9,58 +9,58 @@
         "0.1.0": {
           "version": "0.1.0",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
-          "samples": [
-            {
-              "description": "Sample of UdonDictionary",
-              "displayName": "UdonDictionarySample",
-              "path": "samples~/UdonDictionarySample"
-            }
-          ],
-          "url": "https://github.com/koyashiro/udon-dictionary/releases/download/v0.1.0/net.koyashiro.udondictionary-0.1.0.zip",
           "vpmDependencies": {
             "com.vrchat.udonsharp": "1.1.5",
             "net.koyashiro.udonlist": "0.2.1"
-          }
+          },
+          "samples": [
+            {
+              "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
+              "path": "samples~/UdonDictionarySample"
+            }
+          ],
+          "url": "https://github.com/koyashiro/udon-dictionary/releases/download/v0.1.0/net.koyashiro.udondictionary-0.1.0.zip"
         },
         "0.2.0": {
           "version": "0.2.0",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -73,26 +73,26 @@
         "0.3.0": {
           "version": "0.3.0",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -107,26 +107,26 @@
         "0.4.0": {
           "version": "0.4.0",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -141,26 +141,26 @@
         "0.4.1": {
           "version": "0.4.1",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -175,26 +175,26 @@
         "0.5.0": {
           "version": "0.5.0",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -209,26 +209,26 @@
         "0.6.0": {
           "version": "0.6.0",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -241,26 +241,26 @@
         "0.7.0": {
           "version": "0.7.0",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -273,26 +273,26 @@
         "0.8.0": {
           "version": "0.8.0",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -305,26 +305,26 @@
         "0.9.0": {
           "version": "0.9.0",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -337,26 +337,26 @@
         "0.9.1": {
           "version": "0.9.1",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -369,26 +369,26 @@
         "0.9.2": {
           "version": "0.9.2",
           "name": "net.koyashiro.udondictionary",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonDictionary",
+          "description": "Dictionary implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-dictionary/issues"
           },
-          "description": "Dictionary implementation for UdonSharp.",
-          "displayName": "UdonDictionary",
-          "homepage": "https://github.com/koyashiro/udon-dictionary",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-dictionary"
           },
           "samples": [
             {
-              "description": "Sample of UdonDictionary",
               "displayName": "UdonDictionarySample",
+              "description": "Sample of UdonDictionary",
               "path": "samples~/UdonDictionarySample"
             }
           ],
@@ -405,26 +405,26 @@
         "0.1.0": {
           "version": "0.1.0",
           "name": "net.koyashiro.udonexception",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonException",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-exception",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-exception/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonException",
-          "homepage": "https://github.com/koyashiro/udon-exception",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-exception"
           },
           "samples": [
             {
-              "description": "Sample of UdonException.",
               "displayName": "UdonExceptionSample",
+              "description": "Sample of UdonException.",
               "path": "Samples~/UdonExceptionSample"
             }
           ],
@@ -436,26 +436,26 @@
         "0.2.0": {
           "version": "0.2.0",
           "name": "net.koyashiro.udonexception",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonException",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-exception",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-exception/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonException",
-          "homepage": "https://github.com/koyashiro/udon-exception",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-exception"
           },
           "samples": [
             {
-              "description": "Sample of UdonException.",
               "displayName": "UdonExceptionSample",
+              "description": "Sample of UdonException.",
               "path": "Samples~/UdonExceptionSample"
             }
           ],
@@ -471,168 +471,168 @@
         "0.1.0": {
           "version": "0.1.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.1.5",
+            "net.koyashiro.udonlist": "0.2.1",
+            "net.koyashiro.udondictionary": "0.1.0"
+          },
           "samples": [
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
-          "url": "https://github.com/koyashiro/udon-json/releases/download/v0.1.0/net.koyashiro.udonjson-0.1.0.zip",
-          "vpmDependencies": {
-            "com.vrchat.udonsharp": "1.1.5",
-            "net.koyashiro.udondictionary": "0.1.0",
-            "net.koyashiro.udonlist": "0.2.1"
-          }
+          "url": "https://github.com/koyashiro/udon-json/releases/download/v0.1.0/net.koyashiro.udonjson-0.1.0.zip"
         },
         "0.2.0": {
           "version": "0.2.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
           "url": "https://github.com/koyashiro/udon-json/releases/download/v0.2.0/net.koyashiro.udonjson-0.2.0.zip",
           "vpmDependencies": {
             "com.vrchat.udonsharp": "1.1.5",
-            "net.koyashiro.udondictionary": "0.1.0",
-            "net.koyashiro.udonlist": "0.2.1"
+            "net.koyashiro.udonlist": "0.2.1",
+            "net.koyashiro.udondictionary": "0.1.0"
           }
         },
         "0.3.0": {
           "version": "0.3.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
           "url": "https://github.com/koyashiro/udon-json/releases/download/v0.3.0/net.koyashiro.udonjson-0.3.0.zip",
           "vpmDependencies": {
             "com.vrchat.udonsharp": "1.1.5",
-            "net.koyashiro.udondictionary": "0.2.0",
-            "net.koyashiro.udonlist": "0.2.1"
+            "net.koyashiro.udonlist": "0.2.1",
+            "net.koyashiro.udondictionary": "0.2.0"
           }
         },
         "0.4.0": {
           "version": "0.4.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
           "url": "https://github.com/koyashiro/udon-json/releases/download/v0.4.0/net.koyashiro.udonjson-0.4.0.zip",
           "vpmDependencies": {
             "com.vrchat.udonsharp": "1.1.5",
-            "net.koyashiro.udondictionary": "0.2.0",
-            "net.koyashiro.udonlist": "0.2.1"
+            "net.koyashiro.udonlist": "0.2.1",
+            "net.koyashiro.udondictionary": "0.2.0"
           }
         },
         "0.5.0": {
           "version": "0.5.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -648,31 +648,31 @@
         "0.6.0": {
           "version": "0.6.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -688,31 +688,31 @@
         "0.6.1": {
           "version": "0.6.1",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -728,31 +728,31 @@
         "0.7.0": {
           "version": "0.7.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -768,31 +768,31 @@
         "0.8.0": {
           "version": "0.8.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -806,31 +806,31 @@
         "0.9.0": {
           "version": "0.9.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -844,31 +844,31 @@
         "0.9.1": {
           "version": "0.9.1",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -882,31 +882,31 @@
         "0.10.0": {
           "version": "0.10.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -920,31 +920,31 @@
         "0.10.1": {
           "version": "0.10.1",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -958,31 +958,31 @@
         "0.10.2": {
           "version": "0.10.2",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -996,31 +996,31 @@
         "0.11.0": {
           "version": "0.11.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -1034,31 +1034,31 @@
         "0.12.0": {
           "version": "0.12.0",
           "name": "net.koyashiro.udonjson",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonJson",
+          "description": "JSON serializer/deserializer implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-json",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-json/issues"
           },
-          "description": "JSON serializer/deserializer implementation for UdonSharp.",
-          "displayName": "UdonJson",
-          "homepage": "https://github.com/koyashiro/udon-json",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-json"
           },
           "samples": [
             {
-              "description": "Sample of UdonJsonSerializerSample",
               "displayName": "UdonJsonSerializerSample",
+              "description": "Sample of UdonJsonSerializerSample",
               "path": "Samples~/UdonJsonSerializerSample"
             },
             {
-              "description": "Sample of UdonJsonDeserializer",
               "displayName": "UdonJsonDeserializerSample",
+              "description": "Sample of UdonJsonDeserializer",
               "path": "Samples~/UdonJsonDeserializerSample"
             }
           ],
@@ -1076,119 +1076,119 @@
         "0.1.0": {
           "version": "0.1.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro"
           },
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.1.5"
+          },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
-          "url": "https://github.com/koyashiro/udon-list/releases/download/v0.1.0/net.koyashiro.udonlist-0.1.0.zip",
-          "vpmDependencies": {
-            "com.vrchat.udonsharp": "1.1.5"
-          }
+          "url": "https://github.com/koyashiro/udon-list/releases/download/v0.1.0/net.koyashiro.udonlist-0.1.0.zip"
         },
         "0.2.0": {
           "version": "0.2.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.1.5"
+          },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
-          "url": "https://github.com/koyashiro/udon-list/releases/download/v0.2.0/net.koyashiro.udonlist-0.2.0.zip",
-          "vpmDependencies": {
-            "com.vrchat.udonsharp": "1.1.5"
-          }
+          "url": "https://github.com/koyashiro/udon-list/releases/download/v0.2.0/net.koyashiro.udonlist-0.2.0.zip"
         },
         "0.2.1": {
           "version": "0.2.1",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.1.5"
+          },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
-          "url": "https://github.com/koyashiro/udon-list/releases/download/v0.2.1/net.koyashiro.udonlist-0.2.1.zip",
-          "vpmDependencies": {
-            "com.vrchat.udonsharp": "1.1.5"
-          }
+          "url": "https://github.com/koyashiro/udon-list/releases/download/v0.2.1/net.koyashiro.udonlist-0.2.1.zip"
         },
         "0.3.0": {
           "version": "0.3.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1200,26 +1200,26 @@
         "0.4.0": {
           "version": "0.4.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1231,26 +1231,26 @@
         "0.4.1": {
           "version": "0.4.1",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1262,26 +1262,26 @@
         "0.5.0": {
           "version": "0.5.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1295,26 +1295,26 @@
         "0.5.1": {
           "version": "0.5.1",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1328,26 +1328,26 @@
         "0.6.0": {
           "version": "0.6.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1361,26 +1361,26 @@
         "0.7.0": {
           "version": "0.7.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1394,26 +1394,26 @@
         "0.7.1": {
           "version": "0.7.1",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1427,26 +1427,26 @@
         "0.7.2": {
           "version": "0.7.2",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1460,26 +1460,26 @@
         "0.8.0": {
           "version": "0.8.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1493,26 +1493,26 @@
         "0.8.1": {
           "version": "0.8.1",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1526,26 +1526,26 @@
         "0.8.2": {
           "version": "0.8.2",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1559,26 +1559,26 @@
         "0.9.0": {
           "version": "0.9.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1592,26 +1592,26 @@
         "0.10.0": {
           "version": "0.10.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1625,26 +1625,26 @@
         "0.11.0": {
           "version": "0.11.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1658,26 +1658,26 @@
         "0.12.0": {
           "version": "0.12.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1689,26 +1689,26 @@
         "0.12.1": {
           "version": "0.12.1",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1720,26 +1720,26 @@
         "0.12.2": {
           "version": "0.12.2",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1751,26 +1751,26 @@
         "0.12.3": {
           "version": "0.12.3",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1782,26 +1782,26 @@
         "0.13.0": {
           "version": "0.13.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1813,26 +1813,26 @@
         "0.14.0": {
           "version": "0.14.0",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1844,26 +1844,26 @@
         "0.14.1": {
           "version": "0.14.1",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
@@ -1875,26 +1875,26 @@
         "0.14.2": {
           "version": "0.14.2",
           "name": "net.koyashiro.udonlist",
-          "author": {
-            "email": "develop@koyashi.ro",
-            "name": "koyashiro",
-            "url": "https://github.com/koyashiro"
-          },
+          "displayName": "UdonList",
+          "description": "List implementation for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-list",
           "bugs": {
             "url": "https://github.com/koyashiro/udon-list/issues"
           },
-          "description": "List implementation for UdonSharp.",
-          "displayName": "UdonList",
-          "homepage": "https://github.com/koyashiro/udon-list",
           "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
           "repository": {
             "type": "git",
             "url": "https://github.com/koyashiro/udon-list"
           },
           "samples": [
             {
-              "description": "Sample of UdonList.",
               "displayName": "UdonListSample",
+              "description": "Sample of UdonList.",
               "path": "Samples~/UdonListSample"
             }
           ],
