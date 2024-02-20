@@ -8,14 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744 # v3.6.0
       - name: Cache
-        uses: actions/cache@v3
+        uses: actions/cache@e12d46a63a90f2fae62d114769bbf2a179198b5c # v3.3.3
         with:
           path: ~/.cache/vpm-repos-gen
           key: ${{ runner.os }}-vpm-repos-gen
       - name: Generate index.json
-        uses: koyashiro/vpm-repos-gen-action@v0.1.0
+        uses: koyashiro/vpm-repos-gen-action@06a7d4ad0fd2829d5a7b0d1acb2177d8f9370578 # v0.1.0
         with:
           name: koyashiro's vpm repo
           id: net.koyashiro.vpm
@@ -29,7 +29,7 @@ jobs:
             koyashiro/generic-data-container
           output: index.json
       - name: Generate archive index.json
-        uses: koyashiro/vpm-repos-gen-action@v0.1.0
+        uses: koyashiro/vpm-repos-gen-action@06a7d4ad0fd2829d5a7b0d1acb2177d8f9370578 # v0.1.0
         with:
           name: koyashiro's archive vpm repo
           id: net.koyashiro.vpm.archive
@@ -42,6 +42,6 @@ jobs:
             koyashiro/udon-json
           output: archive/index.json
       - name: Commit & Push changes
-        uses: actions-js/push@v1.4
+        uses: actions-js/push@156f2b10c3aa000c44dbe75ea7018f32ae999772 # v1.4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
