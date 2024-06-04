@@ -709,6 +709,35 @@
             "net.koyashiro.udonsha2": "^0.1.x"
           },
           "repo": "https://vpm.koyashiro.net/index.json"
+        },
+        "0.2.1": {
+          "version": "0.2.1",
+          "name": "net.koyashiro.udonjwt",
+          "displayName": "UdonJwt",
+          "description": "JWT library for UdonSharp.",
+          "homepage": "https://github.com/koyashiro/udon-jwt",
+          "bugs": {
+            "url": "https://github.com/koyashiro/udon-jwt/issues"
+          },
+          "license": "MIT",
+          "author": {
+            "name": "koyashiro",
+            "email": "develop@koyashi.ro",
+            "url": "https://github.com/koyashiro"
+          },
+          "repository": {
+            "type": "git",
+            "url": "https://github.com/koyashiro/udon-jwt"
+          },
+          "samples": [],
+          "url": "https://github.com/koyashiro/udon-jwt/releases/download/v0.2.1/net.koyashiro.udonjwt-0.2.1.zip",
+          "vpmDependencies": {
+            "com.vrchat.base": "^3.5.2",
+            "com.vrchat.worlds": "^3.5.2",
+            "net.koyashiro.genericdatacontainer": "^0.2.x",
+            "net.koyashiro.udonsha2": "^0.1.x"
+          },
+          "repo": "https://vpm.koyashiro.net/index.json"
         }
       }
     },
