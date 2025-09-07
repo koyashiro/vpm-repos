@@ -15,7 +15,7 @@ jobs:
           path: ~/.cache/vpm-repos-gen
           key: ${{ runner.os }}-vpm-repos-gen
       - name: Generate index.json
-        uses: koyashiro/vpm-repos-gen-action@06a7d4ad0fd2829d5a7b0d1acb2177d8f9370578 # v0.1.0
+        uses: koyashiro/vpm-repos-gen-action@1cff8dddb3ba24e61a5c90f1d5bb2a50b42b9b29 # v0.3.0
         with:
           name: koyashiro's vpm repo
           id: net.koyashiro.vpm
@@ -29,7 +29,7 @@ jobs:
             koyashiro/generic-data-container
           output: index.json
       - name: Generate archive index.json
-        uses: koyashiro/vpm-repos-gen-action@06a7d4ad0fd2829d5a7b0d1acb2177d8f9370578 # v0.1.0
+        uses: koyashiro/vpm-repos-gen-action@1cff8dddb3ba24e61a5c90f1d5bb2a50b42b9b29 # v0.3.0
         with:
           name: koyashiro's archive vpm repo
           id: net.koyashiro.vpm.archive
